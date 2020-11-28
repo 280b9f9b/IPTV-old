@@ -1,8 +1,6 @@
 # IPTV
 
-[<img src=https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png width=100 height=100/>](https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8)
-
-[<img src=https://i.imgur.com/7Bx66K7.jpg width=100 height=100/>](https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8)
+[<img src=https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png width=100 height=100/>](https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8) [<img src=https://i.imgur.com/7Bx66K7.jpg width=100 height=100/>](https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8)
 
 [<img src=https://i.imgur.com/lKl2wZH.png width=100 height=100/>](https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8)
 
