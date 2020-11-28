@@ -1,4 +1,3 @@
-# IPTV
 # 🇦🇪 United Arab Emirates
 
 [<img src=https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png  height=100/>](https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8)
