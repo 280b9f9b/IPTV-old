@@ -48,7 +48,7 @@
 [<img src=https://i.imgur.com/ob1GhbC.jpg  height=100/>](https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8)
 [<img src=https://i.imgur.com/IaRaabJ.jpg  height=100/>](https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8)
 [<img src=https://i.imgur.com/FAp0RtO.png  height=100/>](https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8)
-[<img src=https://i.imgur.com/6Er1lh6.png  height=100/>](https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8)
+[<img src=https://www.lyngsat.com/logo/tv/ss/sharqiya-tv-ae.png  height=100/>](https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8)
 [<img src=https://i.imgur.com/nsxrqta.jpg  height=100/>](http://51.158.73.206/hls/stream.m3u8)
 [<img src=https://i.imgur.com/GmgibYW.jpg  height=100/>](https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8)
 [<img src=https://i.imgur.com/ky1sNul.png  height=100/>](https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8)
