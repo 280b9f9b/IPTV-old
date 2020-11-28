@@ -3,7 +3,7 @@
 
 [<img src=https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png =100x20>](https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8)
 
-[<img src=https://i.imgur.com/7Bx66K7.jpg 100x200 %>](https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8)
+[<img src=https://i.imgur.com/7Bx66K7.jpg width="500" height="300"/>](https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8)
 
 [<img src=https://i.imgur.com/lKl2wZH.png=100x20>](https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8)
 
