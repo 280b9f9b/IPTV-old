@@ -1,6 +1,6 @@
 # 🇦🇪 United Arab Emirates
 [<img src=https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png  height=100/>](https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8)
-[<img src=https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates/AD%20Drama.png?raw=true  height=100/>](https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8)
+[<img src=https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates/AD%20Drama.png height=100/>](https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8)
 [<img src=https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-1-ae.png  height=100/>](https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8)
 [<img src=https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-2-ae.png  height=100/>](https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8)
 [<img src=https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-3-ae.png  height=100/>](https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8)
