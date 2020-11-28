@@ -11,7 +11,7 @@
 [<img src=https://i.imgur.com/7OrfyOx.jpg  height=100/>](https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8)
 [<img src=https://i.imgur.com/rLR5q2x.png  height=100/>](https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8)
 [<img src=https://aldafrah.ae/wp-content/uploads/2018/02/logo_2x-1.png  height=100/>](https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8)
-[<img src=https://yt3.ggpht.com/ytc/AAUvwniNsTucugz2IOMzxR-thrPXwfVQsfTE90A5_0i_=s88-c-k-c0x00ffffff-no-rj height=100/>](https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8)
+[<img src=https://www.lyngsat.com/logo/tv/aa/al_wousta_tv_ae.png height=100/>](https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8)
 [<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png  height=100/>](https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8)
 [<img src=https://i.imgur.com/6lTEvrU.jpg  height=100/>](https://citrusstv.akamaized.net/hls/live/687285/CTV/index.m3u8)
 [<img src=https://i.imgur.com/WjJ8MHC.png  height=100/>](https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8)
