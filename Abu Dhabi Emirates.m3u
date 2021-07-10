@@ -1,0 +1,5 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="AbuDhabiEmirates.ae" tvg-name="Abu Dhabi Emirates" ,Abu Dhabi Emirates
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-id="AbuDhabiDrama.ae" tvg-name="Abu Dhabi Drama" tvg-logo="https://admedia.ae/images/Brands/202022311591540MQ.png" tvg-logo-small="https://admedia.ae/images/Brands/202022311591540MQ.png" ,Abu Dhabi Drama
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
