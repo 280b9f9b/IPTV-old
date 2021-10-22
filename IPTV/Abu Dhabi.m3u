@@ -1,21 +1,21 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/ba/tvprofil.com.epg.xml,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/eg/elcinema.com.epg.xml,https://iptv-org.github.io/epg/guides/us/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
-#EXTINF:-1 group-title="Abu Dhabi Media" tvg-id="AbuDhabiAloula.ae" ,Abu Dhabi TV
+#EXTINF:-1 group-title="Abu Dhabi Media" tvg-id="AbuDhabiAloula.ae" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Abu%20Dhabi/Abu%20Dhabi%20TV.jpg?raw=true" ,Abu Dhabi TV
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Abu Dhabi Media" tvg-id="AbuDhabiEmirates.ae" ,Al Emarat TV
+#EXTINF:-1 group-title="Abu Dhabi Media" tvg-id="AbuDhabiEmirates.ae" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Abu%20Dhabi/Al%20Emarat%20TV.jpg?raw=true" ,Al Emarat TV
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Abu Dhabi Media" tvg-id="AbuDhabiDrama.ae" ,Abu Dhabi Drama
+#EXTINF:-1 group-title="Abu Dhabi Media" tvg-id="AbuDhabiDrama.ae" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Abu%20Dhabi/Abu%20Dhabi%20Drama.jpg?raw=true" ,Abu Dhabi Drama
 https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Abu Dhabi Media" ,Abu Dhabi Sports 1
+#EXTINF:-1 group-title="Abu Dhabi Media" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Abu%20Dhabi/Abu%20Dhabi%20Sports%201.jpg?raw=true" ,Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Abu Dhabi Media" ,Abu Dhabi Sports 2
+#EXTINF:-1 group-title="Abu Dhabi Media" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Abu%20Dhabi/Abu%20Dhabi%20Sports%202.jpg?raw=true" ,Abu Dhabi Sports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Abu Dhabi Media" ,Abu Dhabi Sports 3
+#EXTINF:-1 group-title="Abu Dhabi Media" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Abu%20Dhabi/Abu%20Dhabi%20Sports%203.jpg?raw=true" ,Abu Dhabi Sports 3
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Abu Dhabi Media" ,Abu Dhabi Sports 4
+#EXTINF:-1 group-title="Abu Dhabi Media" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Abu%20Dhabi/Abu%20Dhabi%20Sports%204.jpg?raw=true" ,Abu Dhabi Sports 4
 https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Abu Dhabi Media" ,Yas
+#EXTINF:-1 group-title="Abu Dhabi Media" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Abu%20Dhabi/Yas.jpg?raw=true" ,Yas
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Abu Dhabi Media" ,Majid TV
+#EXTINF:-1 group-title="Abu Dhabi Media" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Abu%20Dhabi/Majid%20TV.jpg?raw=true" ,Majid TV
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Abu Dhabi Media" ,National Geographic Abu Dhabi
+#EXTINF:-1 group-title="Abu Dhabi Media" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Abu%20Dhabi/National%20Geographic%20Abu%20Dhabi.jpg?raw=true" ,National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
