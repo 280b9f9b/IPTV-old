@@ -1,1 +1,1 @@
-[`&Flix`](https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8)
+[Abu Dhabi](https://raw.githubusercontent.com/280b9f9b/IPTV/main/IPTV/Abu%20Dhabi.m3u)
