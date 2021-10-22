@@ -1,0 +1,117 @@
+﻿#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/al/tvprofil.com.epg.xml,https://iptv-org.github.io/epg/guides/ao/zap.co.ao.epg.xml,https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/ba/tvprofil.com.epg.xml,https://iptv-org.github.io/epg/guides/bg/tvprofil.com.epg.xml,https://iptv-org.github.io/epg/guides/bj/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bs/rev.bs.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/eg/elcinema.com.epg.xml,https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.epg.xml,https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/ie/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/ke/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/pe/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml,https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/us-ak/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-ar/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-az/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-ca/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-co/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-ct/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-de/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-fl/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-ga/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-hi/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-ia/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-il/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-in/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-ks/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-ky/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-la/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-ma/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-md/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-me/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-mi/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-mn/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-mo/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-mt/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-nc/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-ne/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-nh/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-nm/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-nv/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-ny/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-oh/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-ok/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-or/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-pa/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-ri/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-sc/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-sd/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-tn/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-tx/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-va/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-vt/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-wa/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-wi/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-wv/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
+#EXTINF:-1 group-title="Lifestyle" tvg-id="BetterHealthTV.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Better%20Health%20TV%20(480p).jpg?raw=true" ,Better Health TV (480p)
+http://uni5rtmp.tulix.tv/betterhealth/betterhealth/chunklist_w848830638.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="BigLifeTV.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Big%20Life%20TV%20(720p).jpg?raw=true" ,Big Life TV (720p)
+https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="BizTV.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Biz%20TV%20(1080p).jpg?raw=true" ,Biz TV (1080p)
+https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="bspoketv.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/bspoketv%20(720p)%20%5BNot%20247%5D.jpg?raw=true" ,bspoketv (720p) [Not 24/7]
+https://bspoketv.s.llnwi.net/streams/322/master.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="BumblebeeTVLifeBae.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Bumblebee%20TV%20LifeBae%20(720p).jpg?raw=true" ,Bumblebee TV LifeBae (720p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22681932c8304fc453418/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="CineLife.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/CineLife%20(1080p).jpg?raw=true" ,CineLife (1080p)
+https://magselect-stirr.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="Civilized.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Civilized.%20(1080p).jpg?raw=true" ,Civilized. (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2531932c8368bdbfd87c/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="Complex.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Complex%20(720p).jpg?raw=true" ,Complex (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-complextv/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="Dabl.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Dabl%20(1080p).jpg?raw=true" ,Dabl (1080p)
+http://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="DemandAfrica.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Demand%20Africa%20(720p).jpg?raw=true" ,Demand Africa (720p)
+https://demandafrica-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="DemandAfricaMexico.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Demand%20Africa%20(Mexico)%20(1080p).jpg?raw=true" ,Demand Africa (Mexico) (1080p)
+https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="FashionTVEurope.fr" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Fashion%20TV%20(1080p).jpg?raw=true" ,Fashion TV (1080p)
+https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="FashionTVEurope.fr" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Fashion%20TV%20L'Original%20(1080p).jpg?raw=true" ,Fashion TV L'Original (1080p)
+https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="FashionTVNewYork.fr" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Fashion%20TV%20New%20York%20(PG13)%20(720p)%20%5BNot%20247%5D.jpg?raw=true" ,Fashion TV New York (PG13) (720p) [Not 24/7]
+https://fash2043.cloudycdn.services/slive/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="FashionTVParisMumbai.fr" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Fashion%20TV%20Paris-Mumbai%20(1080p)%20%5BNot%20247%5D.jpg?raw=true" ,Fashion TV Paris-Mumbai (1080p) [Not 24/7]
+https://fash1043.cloudycdn.services/slive/ftv_ftv_asia_gmt_vmf_43163_default_1298_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="FashionTVPG13.fr" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Fashion%20TV%20PG13%20(1080p).jpg?raw=true" ,Fashion TV PG13 (1080p)
+https://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="FashionTVPG16.fr" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Fashion%20TV%20PG16%20(1080p).jpg?raw=true" ,Fashion TV PG16 (1080p)
+http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="FashionTVSingapore.fr" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Fashion%20TV%20Singapore%20(1080p).jpg?raw=true" ,Fashion TV Singapore (1080p)
+https://fash2043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="FashionTVTokyo.fr" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Fashion%20TV%20Tokyo%20(PG13)%20(1080p).jpg?raw=true" ,Fashion TV Tokyo (PG13) (1080p)
+https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="FashionTVUHD.fr" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Fashion%20TV%20UHD%20(2160p).jpg?raw=true" ,Fashion TV UHD (2160p)
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="FashionBoxHD.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/FashionBox%20HD%20(1080p).jpg?raw=true" ,FashionBox HD (1080p)
+https://fashionbox-localnow.cinedigm.com/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="FashionTVCzechSlovak.fr" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/FashionTV%20Czech&Slovak%20(450p).jpg?raw=true" ,FashionTV Czech&Slovak (450p)
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="FashionTVMumbai.fr" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/FashionTV%20Mumbai%20(720p).jpg?raw=true" ,FashionTV Mumbai (720p)
+https://fash2043.cloudycdn.services/slive/ftv_ftv_pg13_gmt_ess_43126_default_1262_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="Glamour.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Glamour%20(720p).jpg?raw=true" ,Glamour (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglamour/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="GlobalFashionChannel.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Global%20Fashion%20Channel%20(1080p).jpg?raw=true" ,Global Fashion Channel (1080p)
+https://vcngfcssai.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="GQ.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/GQ%20(720p).jpg?raw=true" ,GQ (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="Hometalk.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Hometalk%20(1080p).jpg?raw=true" ,Hometalk (1080p)
+https://playworksdigital-hometalk-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="JewelleryMaker.uk" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Jewelery%20Maker%20(720p).jpg?raw=true" ,Jewelery Maker (720p)
+https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="KCKSLD12.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Jewelry%20TV%20(KCKS-LD12)%20(480p).jpg?raw=true" ,Jewelry TV (KCKS-LD12) (480p)
+https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="Lifestyle.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Lifestyle%20(720p).jpg?raw=true" ,Lifestyle (720p)
+https://bozztv.com/36bay2/gusa-lifestyle/index.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="LivelyPlace.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Lively%20Place%20(720p).jpg?raw=true" ,Lively Place (720p)
+https://aenetworks-ae-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="LIVExLIVE.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/LIVExLIVE%20(1080p).jpg?raw=true" ,LIVExLIVE (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumolivexlive/CDN/master.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="LocalNowInsight.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Local%20Now%20Insight%20(720p).jpg?raw=true" ,Local Now Insight (720p)
+https://linear-154.frequency.stream/dist/localnow/154/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="OURTV.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Opportunities%20in%20Urban%20Renaissance%20Television%20(OURTV)%20(720p).jpg?raw=true" ,Opportunities in Urban Renaissance Television (OURTV) (720p)
+https://hls-cdn.tvstartup.net/barakyah-channel/play/mp4:ourtvedge/chunklist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="PlutoTVBBCHome.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Pluto%20TV%20BBC%20Home%20(720p).jpg?raw=true" ,Pluto TV BBC Home (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Lifestyle" tvg-id="PlutoTVBestLife.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Pluto%20TV%20Best%20Life%20(720p).jpg?raw=true" ,Pluto TV Best Life (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5887ba337b8e94223eb121bd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=630&terminate=false&userId=
+#EXTINF:-1 group-title="Lifestyle" tvg-id="PlutoTVFashionbox.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Pluto%20TV%20Fashionbox%20(720p).jpg?raw=true" ,Pluto TV Fashionbox (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294f5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Lifestyle" tvg-id="PlutoTVFitness.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Pluto%20TV%20Fitness%20(720p).jpg?raw=true" ,Pluto TV Fitness (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b0c92783b3f0007a4c7df/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b0c92783b3f0007a4c7df&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=3b0b1ee4-3c26-4c24-8a7c-1b12f2e4e536&terminate=false&userId=
+#EXTINF:-1 group-title="Lifestyle" tvg-id="PlutoTVHealth.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Pluto%20TV%20Health%20(720p).jpg?raw=true" ,Pluto TV Health (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c2d7ae59bf23c192c411c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Lifestyle" tvg-id="PlutoTVHome.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Pluto%20TV%20Home%20(720p).jpg?raw=true" ,Pluto TV Home (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb96303f5bb020008e7e44f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5eb96303f5bb020008e7e44f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=8044788b-0583-11eb-a18c-0242ac110002&terminate=false&userId=
+#EXTINF:-1 group-title="Lifestyle" tvg-id="PlutoTVHomesUnderHammer.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Pluto%20TV%20Homes%20Under%20Hammer%20(720p).jpg?raw=true" ,Pluto TV Homes Under Hammer (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c2e9d8002db3c3e0b1c72/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Lifestyle" tvg-id="PlutoTVTheDesignNetwork.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Pluto%20TV%20The%20Design%20Network%20(720p).jpg?raw=true" ,Pluto TV The Design Network (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ff8c8bcf3d600078af3eb/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Lifestyle" tvg-id="Revry.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Revry%20(720p).jpg?raw=true" ,Revry (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-revryxumo/CDN/master.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="RevryNews.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Revry%20News%20(720p).jpg?raw=true" ,Revry News (720p)
+https://linear-44.frequency.stream/dist/localnow/44/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="RevryQueer.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Revry%20Queer%20(720p).jpg?raw=true" ,Revry Queer (720p)
+https://4aafa23ec0a6477ca31466bd83a115a4.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-43-REVRY2-GALXY/mt/galxy/43/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="SoReal.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/So...%20Real%20(1080p).jpg?raw=true" ,So... Real (1080p)
+https://soreal-localnow.cinedigm.com/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="SoReal.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/So...Real%20(1080p).jpg?raw=true" ,So...Real (1080p)
+https://dai.google.com/linear/hls/event/VMzvtHhOQdOAzbV_hQKQbQ/master.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="STIRRCineLife.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/STIRR%20CineLife%20(1080p).jpg?raw=true" ,STIRR CineLife (1080p)
+https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="STIRRCity.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/STIRR%20City%20(720p).jpg?raw=true" ,STIRR City (720p)
+https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="STIRRClassica.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/STIRR%20Classica%20(1080p).jpg?raw=true" ,STIRR Classica (1080p)
+https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="STIRRPopstarTV.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/STIRR%20Popstar!%20TV%20(1080p).jpg?raw=true" ,STIRR Popstar! TV (1080p)
+https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="STIRRRevry.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/STIRR%20Revry%20(720p).jpg?raw=true" ,STIRR Revry (720p)
+https://dai.google.com/linear/hls/event/gvO6-Y6TTjCxRf1QALU4VQ/master.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="TheBeachChannel.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/The%20Beach%20Channel%20(720p).jpg?raw=true" ,The Beach Channel (720p)
+https://live.lwcdn.com/live/amlst:ALH8QFrg_all/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="TheCraftistry.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/The%20Craftistry%20(1080p).jpg?raw=true" ,The Craftistry (1080p)
+https://studio71-craftistry-roku.amagi.tv/hls/amagi_hls_data_studio71A-craftistry-rokuA/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="TheDesignNetwork.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/The%20Design%20Network%20(720p).jpg?raw=true" ,The Design Network (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="VanityFair.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Vanity%20Fair%20(720p).jpg?raw=true" ,Vanity Fair (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvanityfair/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="Vogue.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/Vogue%20(720p).jpg?raw=true" ,Vogue (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="WorldFashionChannel.us" tvg-logo="https://github.com/280b9f9b/IPTV/blob/main/Tv-Logo/Lifestyle/World%20Fashion%20Channel%20(1080p).jpg?raw=true" ,World Fashion Channel (1080p)
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
