@@ -2,3 +2,4 @@
 [Dubai](https://raw.githubusercontent.com/280b9f9b/IPTV/main/IPTV/Dubai.m3u)
 [MBC](https://raw.githubusercontent.com/280b9f9b/IPTV/main/IPTV/MBC.m3u)
 [Lifestyle](https://raw.githubusercontent.com/280b9f9b/IPTV/main/IPTV/Lifestyle.m3u)
+[Entertainment](https://raw.githubusercontent.com/280b9f9b/IPTV/main/IPTV/Entertainment.m3u)
